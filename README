@@ -1,0 +1,8 @@
+Start server
+1. nodemon index.js
+
+Use local tunnel
+npm install -g localtunnel
+
+run local tunnel 
+lt --port 3000
